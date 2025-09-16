@@ -139,7 +139,7 @@ Accident-Detection-System/
 ## 📬 Contact
 
 👨‍💻 Developed by **Md. Iqbal Haider Khan (@ihkokil)**
-🌐 [Portfolio / Website](https://www.linkedin.com/in/ihkokil/)
+🌐 [@ihkokil](https://www.linkedin.com/in/ihkokil/)
 
 ---
 
